@@ -1,4 +1,4 @@
-module github.com/vicanso/go-charts/v2
+module github.com/thinkovation/go-charts
 
 go 1.17
 
